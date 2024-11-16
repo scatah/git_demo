@@ -4,7 +4,7 @@ from more_awesome_code import cooool_func2
 
 def coool_death_function_metaaaaaaal():
 
-    kitty = "cute"
+    kitty = "cut"
     bunny = "cute"
      
     return kitty, bunny
